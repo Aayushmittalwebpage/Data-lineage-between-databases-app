@@ -37,7 +37,7 @@ Simply use [Lineage-notebook.ipynb](https://github.com/Aayushmittalwebpage/Data-
 
 ## Algorithm Flow
 
-![image](https://drive.google.com/uc?export=view&id=1poB7kf_Dqa9sToYfsknX44qmr9Mcthec)
+![image](https://drive.google.com/uc?export=view&id=1DhIixB8LDmZtqmfb6E_XBsLK2cnv5GXT)
   
   
 ## System Design
