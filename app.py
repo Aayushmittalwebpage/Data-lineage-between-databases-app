@@ -62,17 +62,17 @@ def main():
         st.subheader("Enter Details of Database 1")
 
         user_input1 = st.text_input("1. Database Name")
-        user_input2 = st.text_input("2. Host")
+        user_input2 = st.text_input ("2. Host")
         user_input3 = st.text_input("3. Password")
-        user_input4 = st.text_input("4. Port")
+        user_input4 = st.number_input("4. Port", step=1)
         user_input5 = st.text_input("5. User name")
         
         st.subheader("Enter Details of Database 2")
 
         user_input6 = st.text_input("1) Database Name")
-        user_input7 = st.text_input("2) Host")
+        user_input7 = st.text_input ("2) Host")
         user_input8 = st.text_input("3) Password")
-        user_input9 = st.text_input("4) Port")
+        user_input9 = st.number_input("4) Port", step=1)
         user_input10 = st.text_input("5) User name")
 
         submit = st.form_submit_button(label='Submit')
@@ -83,19 +83,19 @@ def main():
         
 
         engine1 = create_engine('postgresql://{}:{}@{}:{}/{}'.format(
-        data[0], 
-        data[1], 
+        data[4], 
         data[2], 
+        data[1], 
         data[3], 
-        data[4] ))
+        data[0] ))
 
 
         engine2 = create_engine('postgresql://{}:{}@{}:{}/{}'.format(
-        data[5], 
-        data[6], 
+        data[9], 
         data[7], 
+        data[6], 
         data[8], 
-        data[9] ))
+        data[5] ))
 
 
         #loop through all the tables and store in different pandas dataframe
@@ -243,7 +243,7 @@ def main():
                     numpy_arr1=numpy_df1.to_numpy()
                     numpy_arr2=numpy_df2.to_numpy()
 
-                    if(len1 == len2):
+                    if(numpy_arr1.size == numpy_arr2.size):
                         
                         
                         corr, _ = pearsonr(numpy_arr1, numpy_arr2)
@@ -391,8 +391,7 @@ def main():
                     numpy_arr1=numpy_df1.to_numpy()
                     numpy_arr2=numpy_df2.to_numpy()
 
-                    if(len1 == len2):
-                        
+                    if(numpy_arr1.size == numpy_arr2.size):
                         
                         corr, _ = pearsonr(numpy_arr1, numpy_arr2)
                         
