@@ -1,18 +1,15 @@
 # Data Lineage between Relational databases
 
 ## Introduction
-With multiple departments in an organization, there comes multiple databases for different use-cases. Between these databases data flows and transforms. Understanding where data comes & goes across databases and determining its relationship across is essential to support the business and to get complete understanding of data and systems. 
 
-In data science, the inability to trace the lineage of particular data is a common and fundamental problem that undermines both security and reliability. Understanding data lineage enables auditing and accountability, and allows users to better understand the flow of data through a system.
-
-Hence, I've built a system to create an easy-to-understand visualization of the data spreading across multiple databases where the various transformations on it can be tracked. Additionally, relationships between data and its degree of replication across databases can help make better informed decisions and can minimize redundant data.
+I've built a system to create an easy-to-understand visualization of the data spreading across multiple databases where the various transformations on it can be tracked. Additionally, this algorithm finds relationships between data and its degree of replication across databases that can help make better informed decisions and can minimize redundant data.
 
 
 # Install
 
 ## Requirements
 
-**DataTracer** has been developed and tested on [Python 3.5 and 3.6, 3.7](https://www.python.org/downloads/)
+Developed and tested on [Python 3.5 and 3.6, 3.7](https://www.python.org/downloads/)
 
 Also, although it is not strictly required, the usage of a [virtualenv](
 https://virtualenv.pypa.io/en/latest/) is highly recommended in order to avoid
