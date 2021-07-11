@@ -37,11 +37,11 @@ Simply use [Lineage-notebook.ipynb](https://github.com/Aayushmittalwebpage/Data-
 
 ## Algorithm Flow
 
-![Socgen (11)](https://user-images.githubusercontent.com/39221704/125185508-d1c50100-e242-11eb-9746-a9a7dd8ad257.png)
-
+<a href="https://drive.google.com/uc?export=view&id=1poB7kf_Dqa9sToYfsknX44qmr9Mcthec"><img src="https://drive.google.com/uc?export=view&id=1poB7kf_Dqa9sToYfsknX44qmr9Mcthec" style="width: 650px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  
+  
 ## System Design
 
-![Data lineage tool (1)](https://user-images.githubusercontent.com/39221704/125185556-2c5e5d00-e243-11eb-99be-ab200fb17a5f.jpeg)
 
 
 
