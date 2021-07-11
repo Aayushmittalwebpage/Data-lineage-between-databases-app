@@ -1,7 +1,7 @@
 # Data Lineage between Relational databases
 
 ## Introduction
-With multiple departments in an organization, there comes multiple databases for different use-cases. Between these databases data flows and transforms. In the finance industry, data surrounding financial assets are incredibly complex and become even more so as they’re bundled together and sliced into various sub-assets that are repackaged and resold. Understanding where data comes & goes across databases and determining its relationship across is essential to support the business and to get complete understanding of data and systems. 
+With multiple departments in an organization, there comes multiple databases for different use-cases. Between these databases data flows and transforms. Understanding where data comes & goes across databases and determining its relationship across is essential to support the business and to get complete understanding of data and systems. 
 
 In data science, the inability to trace the lineage of particular data is a common and fundamental problem that undermines both security and reliability. Understanding data lineage enables auditing and accountability, and allows users to better understand the flow of data through a system.
 
