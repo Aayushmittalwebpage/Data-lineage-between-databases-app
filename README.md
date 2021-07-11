@@ -37,12 +37,12 @@ Simply use [Lineage-notebook.ipynb](https://github.com/Aayushmittalwebpage/Data-
 
 ## Algorithm Flow
 
-![image](https://drive.google.com/uc?export=view&id=1BeHf8hnWbG-vy3y6dWqclwVP4TOt-Lfl)
+![image](https://drive.google.com/uc?export=view&id=1poB7kf_Dqa9sToYfsknX44qmr9Mcthec)
   
   
 ## System Design
 
-
+![image](https://drive.google.com/uc?export=view&id=1BeHf8hnWbG-vy3y6dWqclwVP4TOt-Lfl)
 
 
 ## Why build lineage using machine learning and statistics?
