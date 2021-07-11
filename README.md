@@ -41,7 +41,7 @@ Simply use [Lineage-notebook.ipynb](https://github.com/Aayushmittalwebpage/Data-
 
 ## System Design
 
-![Data lineage tool (1)](https://user-images.githubusercontent.com/39221704/125185531-046ef980-e243-11eb-9143-bcaa984b48b8.png)
+![Data lineage tool (1)](https://user-images.githubusercontent.com/39221704/125185556-2c5e5d00-e243-11eb-99be-ab200fb17a5f.jpeg)
 
 
 
