@@ -5,7 +5,7 @@ With multiple departments in an organization, there comes multiple databases for
 
 In data science, the inability to trace the lineage of particular data is a common and fundamental problem that undermines both security and reliability. Understanding data lineage enables auditing and accountability, and allows users to better understand the flow of data through a system.
 
-Hence, a system is required to create an easy-to-understand visualization of the data spreading across multiple databases where the various transformations on it can be tracked. Additionally, relationships between data and its degree of replication across databases can help make better informed decisions and can minimize redundant data.
+Hence, I've built a system to create an easy-to-understand visualization of the data spreading across multiple databases where the various transformations on it can be tracked. Additionally, relationships between data and its degree of replication across databases can help make better informed decisions and can minimize redundant data.
 
 
 ## Why using machine learning and statistics?
