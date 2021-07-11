@@ -24,11 +24,12 @@ Install all dependencies from [requirements.txt](https://github.com/Aayushmittal
 
 Run [app.py](https://github.com/Aayushmittalwebpage/Data-lineage-between-databases-app/blob/main/app.py)
 
-Enter postgresql database credentials and submit to get results
-
 ```bash
 streamlit run app.py
 ```
+
+Enter postgresql database credentials and submit to get results
+
 
 *OR*
 
