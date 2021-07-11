@@ -18,10 +18,13 @@ interfering with other software installed in the system.
 # Quickstart
 
 To run the webapp
+
 First, clone this github repository in your system.
 Install all dependencies from [requirements.txt](https://github.com/Aayushmittalwebpage/Data-lineage-between-databases-app/blob/main/requirements.txt)
 
 Run [app.py](https://github.com/Aayushmittalwebpage/Data-lineage-between-databases-app/blob/main/app.py)
+
+Enter postgresql database credentials and submit to get results
 
 ```bash
 streamlit run app.py
