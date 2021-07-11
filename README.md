@@ -35,12 +35,17 @@ streamlit run app.py
 Simply use [Lineage-notebook.ipynb](https://github.com/Aayushmittalwebpage/Data-lineage-between-databases-app/blob/main/Lineage-notebook.ipynb) jupyter notebook
 
 
+## Algorithm Flow
+
+![Socgen (11)](https://user-images.githubusercontent.com/39221704/125185508-d1c50100-e242-11eb-9746-a9a7dd8ad257.png)
+
+## System Design
+
+![Data lineage tool (1)](https://user-images.githubusercontent.com/39221704/125185531-046ef980-e243-11eb-9143-bcaa984b48b8.png)
+
+
+
 ## Why build lineage using machine learning and statistics?
 While many solutions to the data lineage problem have been proposed before, all available attempts at tackling the problem rely either on handcrafted heuristics , code analysis , and/or manual annotation of data. While these are all valid ways of lineage tracing, they all have limitations. Code analysis requires access to the code, which may be inaccessible when dealing with external applications or if the code was lost/deprecated. Algorithms require a strict set of conditions to be able to run, such as knowing ahead of time all the possible transformations, which cannot always be satisfied. Finally, solutions that require annotations are great for future lineage tracing, but they were not designed to answer the question of where the present non-annotated data came from. This approach does not have these same limitations.
-
-
-
-
-
 
 
