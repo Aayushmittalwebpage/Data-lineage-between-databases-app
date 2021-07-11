@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I've built a system to create an easy-to-understand visualization of the data spreading across multiple databases where the various transformations on it can be tracked. Additionally, this algorithm finds relationships between data and its degree of replication across databases that can help make better informed decisions and can minimize redundant data.
+I've built a system thats create an easy-to-understand visualization and a Lineage report of the data spreading across multiple databases where the various transformations on it can be tracked. Additionally, this algorithm finds relationships between data and its degree of replication across databases that can help make better informed decisions and can minimize redundant data.
 
 
 # Install
