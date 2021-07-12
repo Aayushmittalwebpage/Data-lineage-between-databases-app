@@ -2,7 +2,7 @@
 
 ## Introduction
 
-I've built a system thats create an easy-to-understand visualization and a Lineage report of the data spreading across two isolated databases where the various transformations, replication and similarity on it can be tracked. Additionally, this algorithm finds relationships between data and its degree of replication across databases that can help make better informed decisions and can minimize redundant data.
+I've built a system that creates an easy-to-understand visualization graph and a Lineage report of the data spreading across two isolated databases where the various transformations, replication and similarity on it can be tracked. 
 
 
 # Install
