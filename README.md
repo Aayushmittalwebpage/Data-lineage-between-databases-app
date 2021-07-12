@@ -9,7 +9,7 @@ I've built a system that creates an easy-to-understand visualization graph and a
 
 ## Requirements
 
-Developed and tested on [Python 3.5 and 3.6, 3.7](https://www.python.org/downloads/)
+Developed and tested on [Python 3.8](https://www.python.org/downloads/)
 
 Also, although it is not strictly required, the usage of a [virtualenv](
 https://virtualenv.pypa.io/en/latest/) is highly recommended in order to avoid
